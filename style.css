@@ -1,0 +1,496 @@
+/* ================================ Layout Section ================================*/
+
+*{
+    transition: 0.8s !important;
+}
+
+#heading{
+    background-color: rgb(55, 125, 255);
+    padding: 10px 10px 3px 40px;
+    height: 50px;
+    /* border-radius: 5px; */
+}
+
+.para{
+    text-align: center;
+    position: absolute;
+    top: 14px;
+    left: 340px;
+    color: white;
+}
+
+#navebar{
+    padding: 10px 10px 3px 40px;
+    height: 60px;
+    border-radius: 5px;
+}
+
+#animation{
+    background-color: rgb(55, 125, 255);
+    width: 90%;
+    margin: 10px auto;
+    height: 30px;
+    border-radius: 5px;
+
+}
+
+.anim2{
+    position: relative;
+    bottom: 0px;
+    word-spacing: 3px;
+}
+
+.h1img{
+    margin: 14px auto;
+    display: block;
+}
+
+.para2{
+list-style-position: outside;
+list-style-type: none;
+    /* font-size: 19px; */
+    word-spacing: 1px;
+}
+
+#div2{
+    background-color: rgb(16, 99, 252);
+   height:210px ;
+   margin: 12px 0px 12px 0px;
+   padding:40px 20px 0px 40px ;
+   border-radius: 10px;
+}
+
+
+/* #div2 img{
+    padding:0px 32px 0px 30px ;
+   
+} */
+
+.ol{
+    font-size: 31px;
+}
+
+.ol li{
+    display: inline-block;
+margin: 0px 126px 0px 51px;
+}
+
+.ol2{
+    font-size: 17px;
+}
+
+.ol2 li{
+    display: inline-block;
+margin: 0px 0px 0px 35px;
+position: relative;
+bottom: 14px;
+
+}
+
+.ol3{
+     margin: 10px 0px 10px 0px;
+}
+
+.ol3 li{
+display: inline-block;
+padding: 10px 10px 10px 219px;
+
+}
+
+.ol4{
+    font-size: 17px;
+}
+
+.ol4 li{
+    display: inline-block;
+margin: 10px 0px 10px 0px;
+padding: 10px 10px 10px 180px;
+color:rgb(16, 99, 252);
+font-weight: bold;
+font-size: 21px;
+}
+
+.ol5{
+    margin: 3px 0px 3px 0px;
+
+}
+
+.ol5 li{
+    display: inline-block;
+    padding: 10px 80px 10px 50px;
+    font-weight: bolder;
+    color:rgba(34, 111, 253, 0.89);
+}
+
+#paraimg{
+    text-align: center;
+    margin-bottom: 150px;
+
+}
+
+#animation2{
+    float: right;
+    clear: right;
+    width: 20%;
+    height: 180px;
+    margin-top: 10px;
+}
+
+
+#footer{
+    background-color: #1f1f1fe5;
+    padding: 40px 30px 12px 40px;
+    height: 300px;
+    margin: 0;
+    outline: none;
+}
+
+#footer li{
+    list-style-type: none;
+    line-height: 30px;
+    color: white;
+}
+ 
+#footer .para3{
+   text-align: center;
+   position: relative;
+   bottom: 240px;
+   font-size: 19px;
+   font-weight: bold;
+   padding-right: 140px;
+   text-decoration: underline;
+   text-decoration-color: green;
+   color: rgba(255, 255, 255, 0.842);
+}
+
+.para4{
+    text-align: right;
+    position: relative;
+    bottom: 280px;
+    right:260px ;
+    font-weight: bold;
+    font-size: 19px;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.842);
+}
+
+.ol6 li{
+    display: inline-block;
+    position: relative;
+    bottom: 280px;
+    left:734px ;
+}
+
+#footer2{
+    margin:0px;outline:none;
+background-color:rgb(8, 93, 252);
+height: 40px;
+
+}
+
+.para5{
+    padding: 5px 5px 5px 45px;
+    color: rgba(255, 255, 255, 0.842);
+}
+
+
+/* ================================ Headings Section ================================*/
+
+#h1{
+text-align: center;
+margin-top:60px ;
+font-size: 2em;
+font-family: sans-serif;
+}
+
+.h2{
+    float: left;
+    margin-top: 60px;
+    color:rgb(8, 93, 252);
+    font-weight: bolder;
+text-decoration: underline;
+text-decoration-color: green;
+}
+
+ .h22{
+    float: right;
+    margin-top: 60px;
+    color:rgb(8, 93, 252);
+    font-weight: bolder;
+text-decoration: underline;
+text-decoration-color: green;
+} 
+
+
+
+
+/* ================================ Button Section ================================*/
+
+.button{
+  position: relative;
+  bottom: 0px;
+  left: 720px;
+
+}
+
+.button a{
+    text-decoration: none;
+    color: green;
+}
+
+.button2{
+    position: relative;
+    bottom: 19px;
+    left: 200px;
+}
+
+.buttonhom{
+    border: none;
+    padding: 5px 16px;
+border-radius: 10px;
+cursor: pointer;
+position: absolute;
+top: 30px;
+left: 190px;
+}
+
+.buttonhom:hover{
+    background-color: wheat;
+}
+
+.buttonmed{
+    border: none;
+    padding: 5px 16px;
+border-radius: 10px;
+cursor: pointer;
+position: absolute;
+top: 30px;
+left: 435px;
+
+}
+
+.buttonmed:hover{
+    background-color: wheat;
+}
+
+
+.buttonnew{
+    border: none;
+    padding: 5px 16px;
+border-radius: 10px;
+cursor: pointer;
+position: absolute;
+top: 30px;
+left: 480px;
+}
+
+.buttonnew:hover{
+    background-color: wheat;
+}
+
+
+.dropdown{
+    display: inline-block;
+    position: absolute;
+    top: 60px;
+left: 469px;
+}
+
+.dropdown button{
+    border: none;
+    padding: 5px 16px;
+border-radius: 10px;
+cursor: pointer;
+}
+
+.dropdown button:hover{
+    background-color: wheat;
+}
+
+.dropdown div{
+    background-color:#fff ;
+    box-shadow: 2px 4px 8px rgb(0, 0, 8);
+    z-index: 1;
+    visibility: hidden;
+    position: absolute;
+    min-width: 100%;
+    opacity: 0;
+}
+
+.dropdown:hover div{
+    visibility: visible;
+opacity: 1;
+}
+
+.dropdown div a{
+    display: block;
+    text-decoration: none;
+    padding: 8px;
+    color: black;
+    white-space: nowrap;
+}
+
+.dropdown a:hover{
+    background-color: wheat;
+    color: black;
+    
+}
+ 
+.dropdown1{
+    display: inline-block;
+    position: absolute;
+    top: 60px;
+    left: 566px;
+}
+
+.dropdown1 button{
+    position: absolute;
+    top: 0px;
+    border: none;
+    padding: 5px 16px;
+border-radius: 10px;
+cursor: pointer;
+white-space: nowrap;
+}
+
+.dropdown1 button:hover{
+    background-color: wheat;
+}
+
+
+.dropdown1 div{
+    background-color:#fff ;
+    box-shadow: 2px 4px 8px rgb(0, 0, 8);
+    z-index: 1;
+    visibility: hidden;
+    position: absolute;
+    min-width: 100%;
+    opacity: 0;
+}
+
+.dropdown1:hover div{
+    visibility: visible;
+opacity: 1;
+}
+  
+.dropdown1 div a{
+    display: block;
+    text-decoration: none;
+    padding: 8px;
+    color: black;
+    white-space: nowrap;
+}
+
+.dropdown1 a:hover{
+    background-color: wheat;
+    color: black;   
+}
+
+
+
+.dropdown2{
+    display: inline-block;
+    position: absolute;
+    top: 60px;
+    left: 720px;
+}
+
+.dropdown2 button{
+    border: none;
+    padding: 5px 16px;
+border-radius: 10px;
+cursor: pointer;
+}
+
+.dropdown2 button:hover{
+    background-color: wheat;
+}
+
+.dropdown2 div{
+    background-color:#fff ;
+    box-shadow: 2px 4px 8px rgb(0, 0, 8);
+    z-index: 1;
+    visibility: hidden;
+    position: absolute;
+    min-width: 100%;
+    opacity: 0;
+}
+
+.dropdown2:hover div{
+    visibility: visible;
+opacity: 1;
+}
+
+.dropdown2 div a{
+    display: block;
+    text-decoration: none;
+    padding: 8px;
+    color: black;
+    white-space: nowrap;
+}
+
+.dropdown2 a:hover{
+    background-color: wheat;
+    color: black;
+    
+}
+
+
+.dropdown3{
+    display: inline-block;
+    position: absolute;
+    top: 60px;
+    left: 1052px;
+}
+
+.dropdown3 button{
+    border: none;
+    padding: 5px 16px;
+border-radius: 10px;
+cursor: pointer;
+}
+
+.dropdown3 button:hover{
+    background-color: wheat;
+}
+
+.dropdown3 div{
+    background-color:#fff ;
+    box-shadow: 2px 4px 8px rgb(0, 0, 8);
+    z-index: 1;
+    visibility: hidden;
+    position: absolute;
+    min-width: 100%;
+    opacity: 0;
+}
+
+.dropdown3:hover div{
+    visibility: visible;
+opacity: 1;
+}
+
+.dropdown3 div a{
+    display: block;
+    text-decoration: none;
+    padding: 8px;
+    color: black;
+    white-space: nowrap;
+}
+
+.dropdown3 a:hover{
+    background-color: wheat;
+    color: black;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
