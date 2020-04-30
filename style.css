@@ -77,11 +77,13 @@ margin: 0px 126px 0px 51px;
 
 .ol2{
     font-size: 17px;
+    padding: 0px 5px 0px 5px;
 }
 
 .ol2 li{
     display: inline-block;
 margin: 0px 0px 0px 35px;
+padding: 0px 110px 0px 0px;
 position: relative;
 bottom: 14px;
 
