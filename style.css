@@ -60,6 +60,38 @@ list-style-type: none;
    border-radius: 10px;
 }
 
+.slider1{
+    opacity: 1;
+}
+
+.slider1:hover{
+    opacity: 0.8;
+}
+
+.slider2{
+    opacity: 1;
+}
+
+.slider2:hover{
+    opacity: 0.8;
+}
+
+.slider3{
+    opacity: 1;
+}
+
+.slider3:hover{
+    opacity: 0.8;
+}
+
+.slider4{
+    opacity: 1;
+}
+
+.slider4:hover{
+    opacity: 0.8;
+}
+
 
 /* #div2 img{
     padding:0px 32px 0px 30px ;
@@ -125,7 +157,47 @@ font-size: 21px;
 #paraimg{
     text-align: center;
     margin-bottom: 150px;
+    opacity: 1;
+}
 
+.paraimg1{
+    opacity: 1;
+}
+
+.paraimg1:hover{
+    opacity: 0.8;
+}
+
+.paraimg2{
+    opacity: 1;
+}
+
+.paraimg2:hover{
+    opacity: 0.8;
+}
+
+.paraimg3{
+    opacity: 1;
+}
+
+.paraimg3:hover{
+    opacity: 0.8;
+}
+
+.paraimg4{
+    opacity: 1;
+}
+
+.paraimg4:hover{
+    opacity: 0.8;
+}
+
+.paraimg5{
+    opacity: 1;
+}
+
+.paraimg5:hover{
+    opacity: 0.8;
 }
 
 #animation2{
